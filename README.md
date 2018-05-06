@@ -2,6 +2,5 @@
 Image segmentation using MAP-MRF estimation and GraphCut.
 
 ### TODO
-[] Compare results with regularization on smoothness.
-[] Change cost function for label penalty.
-[] Optimize code.
+[] Add instructions for user input.
+[] Add results to readme.
