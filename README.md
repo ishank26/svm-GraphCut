@@ -8,7 +8,7 @@ Interactive user marked segmentation with GraphCuts.
   * MATLAB requires CVX and Maxflow library
   * Python requires sklearn and PyMaxflow
 
-3. Implemented visualization GUI for analysis and user interaction.
+3. Interactive GUI for analysis.
 
 
 # Results
